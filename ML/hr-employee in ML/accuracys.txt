@@ -1,0 +1,7 @@
+
+SVM Model Evaluation:
+Accuracy: 0.8673469387755102
+Logistic Regression Model Evaluation:
+Accuracy: 0.8605442176870748
+KNN Model Evaluation:
+Accuracy: 0.8469387755102041
