@@ -57,6 +57,47 @@ The goal of this repository is to document my hands-on journey in Machine Learni
 
 > “Learning by building — every project is a step closer to mastery.”
 
+## 📁 Included Projects
+
+### 🔬 Classification Projects
+- **Heart Disease Analysis & Prediction**  
+  Predicting heart disease using multiple ML classifiers with feature analysis and model comparison.
+
+- **Breast Cancer Classification**  
+  Binary classification to detect breast cancer using supervised learning algorithms.
+
+- **Credit Customers Prediction**  
+  Predicting customer credit behavior based on financial and demographic features.
+
+- **HR Employee Attrition Prediction**  
+  Identifying employees likely to leave the company to support retention strategies.
+
+- **Logistic Regression Models**  
+  Practical implementations and tutorials using Logistic Regression for classification tasks.
+
+---
+
+### 📊 Clustering & Unsupervised Learning
+- **Customer Segmentation**  
+  Segmenting customers based on purchasing behavior and demographics.
+
+- **DBSCAN, K-Means & Hierarchical Clustering**  
+  Comparison between multiple clustering algorithms on real datasets.
+
+---
+
+### 🏠 Regression & Prediction
+- **House Rent Prediction**  
+  Predicting house rental prices using machine learning and neural networks.
+
+- **Job Market Data Analysis & Salary Prediction**  
+  Analyzing job market data and predicting salaries based on skills and experience.
+
+---
+
+### 🧠 Feature Analysis & Exploratory Projects
+- **Personal Key Indicators of Heart Disease**  
+  Identifying key features contributing to heart disease using data analysis techniques.
 
 ---
 
