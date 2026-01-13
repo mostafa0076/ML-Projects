@@ -1,45 +1,45 @@
 # ML-Projects
 # 🧠 Machine Learning Projects Collection
 
-مجموعة من مشاريع تعلم الآلة قمت بتنفيذها لتطبيق الخوارزميات المختلفة في مجالات متنوعة، بدايةً من تحليل البيانات ومعالجتها، مرورًا ببناء النماذج، وانتهاءً بتقييم الأداء ونشر النتائج.  
-كل مشروع في هذا الريبو بيعكس فكرة مختلفة ومهارة محددة من مهارات الذكاء الاصطناعي وتعلم الآلة.
+A collection of machine learning projects developed to apply various algorithms across different domains.  
+These projects cover the complete machine learning pipeline, starting from data analysis and preprocessing, through model building and training, and ending with performance evaluation and result interpretation.
+
+Each project in this repository reflects a unique idea and highlights a specific skill within Artificial Intelligence and Machine Learning, with a strong focus on practical, real-world applications.
 
 ---
 
-## 📁 المشاريع الموجودة
+## 📁 Included Projects
 
-### ❤️ **Heart Disease Prediction**  
-تحليل بيانات أمراض القلب والتنبؤ بإمكانية إصابة الشخص بالمرض اعتمادًا على عوامل مثل العمر وضغط الدم ومستوى الكوليسترول.  
-- تم استخدام عدة خوارزميات للمقارنة، وأفضل نتيجة كانت باستخدام **Extra Trees Classifier**.  
-- الأدوات: `Python`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Google Colab`.
-
-
+### ❤️ **Heart Disease Prediction**
+Analyzed heart disease data to predict the likelihood of a person developing heart disease based on features such as age, blood pressure, and cholesterol levels.  
+- Multiple classification algorithms were evaluated, with **Extra Trees Classifier** achieving the best performance.  
+- Tools: `Python`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Google Colab`.
 
 ---
 
-### 👥 **Customer Segmentation**  
-تحليل العملاء وتقسيمهم إلى مجموعات متشابهة بناءً على سلوكهم الشرائي والديموغرافي.  
-- تم استخدام خوارزميات `K-Means` و `DBSCAN` للمقارنة.  
-- يساعد في فهم أنماط العملاء وتخصيص الحملات التسويقية.  
-- الأدوات: `Python`, `Pandas`, `Matplotlib`, `Seaborn`.
+### 👥 **Customer Segmentation**
+Performed customer analysis and segmentation based on purchasing behavior and demographic characteristics.  
+- Implemented and compared `K-Means` and `DBSCAN` clustering algorithms.  
+- Helps in understanding customer patterns and optimizing targeted marketing strategies.  
+- Tools: `Python`, `Pandas`, `Matplotlib`, `Seaborn`.
 
 ---
 
-### 🏠 **House Rent Prediction**  
-التنبؤ بإيجار المنازل باستخدام شبكة عصبية اصطناعية (ANN).  
-- يعتمد على عوامل مثل عدد الغرف، الموقع، المساحة، والمرافق.  
-- الأدوات: `TensorFlow`, `Keras`, `Pandas`, `NumPy`.
+### 🏠 **House Rent Prediction**
+Built an Artificial Neural Network (ANN) model to predict house rental prices.  
+- Based on features such as number of rooms, location, area, and available facilities.  
+- Tools: `TensorFlow`, `Keras`, `Pandas`, `NumPy`.
 
 ---
 
-### 👨‍💼 **HR Employee Attrition**  
-تحليل بيانات الموارد البشرية للتنبؤ بالموظفين المعرضين لمغادرة الشركة.  
-- يساعد الشركات في اتخاذ قرارات أفضل للاحتفاظ بالموظفين.  
-- الأدوات: `Scikit-learn`, `Pandas`, `Matplotlib`.
+### 👨‍💼 **HR Employee Attrition**
+Analyzed human resources data to predict employees who are likely to leave the company.  
+- Supports organizations in making data-driven decisions to improve employee retention.  
+- Tools: `Scikit-learn`, `Pandas`, `Matplotlib`.
 
 ---
 
-## 🧰 **الأدوات والتقنيات المستخدمة**  
+## 🧰 Tools & Technologies Used
 - 🐍 Python  
 - 📊 Pandas, NumPy, Matplotlib, Seaborn  
 - 🤖 Scikit-learn, TensorFlow, Keras  
@@ -48,14 +48,21 @@
 
 ---
 
-## 🚀 **الهدف من الريبو**  
-الهدف هو توثيق الرحلة العملية في مجال تعلم الآلة، وإظهار مهارات تحليل البيانات، بناء النماذج، وتقديم حلول ذكية لمشاكل من الحياة الواقعية.
+## 🚀 Repository Goal
+The goal of this repository is to document my hands-on journey in Machine Learning, demonstrate strong skills in data analysis and model development, and showcase intelligent solutions to real-world problems through practical implementation.
 
 ---
 
-## 📫 **تواصل معي**  
-- 🌐 **بورتفوليو:** [My Portfolio](https://mostafa0076.github.io/My-Portfolio-by-html-css/)  
+
+
+> “Learning by building — every project is a step closer to mastery.”
+
+
+---
+
+## 📫 Contact Me
+j🌐 **Portfolio:**  [My Portfolio](https://mostafa0076.github.io/My-Portfolio-by-html-css/)  
 - 💼 **LinkedIn:** [linkedin.com/in/mostafa-ali-elsharqawi](https://linkedin.com/in/mostafa-ali-elsharqawi)  
 - 📧 **Email:** mstfyshrqawy520@gmail.com  
 
-> “Learning by building — كل مشروع خطوة جديدة نحو الاحتراف.”
+> “Learning by building — every project is a step closer to mastery.”
